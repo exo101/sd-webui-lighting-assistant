@@ -43,7 +43,9 @@ git clone https://github.com/your-repo/sd-webui-lighting-assistant.git
 4. 复制关键词或点击 "发送到文生图/图生图"
 5. 与Flux2-Klein-9B-True-v2编辑模型配合使用
 6. 上传到多图拼接参考插件进行生成
-7. ![Uploading QQ20260615-021748.png…]()
+
+<img width="1831" height="894" alt="QQ20260615-021748" src="https://github.com/user-attachments/assets/31e587a9-e2a6-4801-bce9-2cd2cd0f8211" />
+
 <img width="1821" height="871" alt="QQ20260615-021809" src="https://github.com/user-attachments/assets/2aaf962e-1262-43f9-b208-708fa4af651d" />
 
 
