@@ -41,6 +41,11 @@ git clone https://github.com/your-repo/sd-webui-lighting-assistant.git
 2. 在 "关键词生成器" 标签中选择你想要的打光参数
 3. 点击 "生成关键词" 按钮
 4. 复制关键词或点击 "发送到文生图/图生图"
+5. 与Flux2-Klein-9B-True-v2编辑模型配合使用
+6. 上传到多图拼接参考插件进行生成
+7. ![Uploading QQ20260615-021748.png…]()
+<img width="1821" height="871" alt="QQ20260615-021809" src="https://github.com/user-attachments/assets/2aaf962e-1262-43f9-b208-708fa4af651d" />
+
 
 ### 图片反推分析
 1. 切换到 "图片反推分析" 标签
